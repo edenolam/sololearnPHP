@@ -1,0 +1,89 @@
+Object Oriented Programming (OOP) is a programming style that is intended to make thinking about programming closer to thinking about the real world.
+
+Objects are created using classes, which are the focal point of OOP.
+The class describes what the object will be, but is separate from the object itself. In other words, a class can be thought of as an object's blueprint, description, or definition.
+Take a look at the following examples:
+
+Here, Building is a class. It defines the features of a generic building and how it should work.
+The Empire State Building is a specific object (or instance) of that class.
+
+
+A valid class name starts with a letter or underscore, followed by any number of letters, numbers, or underscores.
+
+
+The process of creating an object of a class is called instantiation.
+To instantiate an object of a class, use the keyword new, as in the example below:
+$bob = new Person();
+
+
+Here the Dog class inherits from the Animal class. As you can see, all the properties and methods of Animal are accessible to Dog objects.
+
+Parent constructors are not called implicitly if the subclass defines a constructor. However, if the child does not define a constructor then it will be inherited from the parent class if it is not declared private.
+Notice all our properties and methods have public visibility.
+For added control over objects, declare methods and properties using a visibility keyword. This controls how and from where properties and methods can be accessed.
+Check out the next lesson for more on visibility.
+
+
+*******************************************************************
+
+PHP Visibility
+
+Visibility controls how and from where properties and methods can be accessed.
+So far, we have used the public keyword to specify that a property/method is accessible from anywhere.
+There are two more keywords to declare visibility:
+protected: Makes members accessible only within the class itself, by inheriting, and by parent classes.
+private: Makes members accessible only by the class that defines them.
+
+Class properties must always have a visibility type. Methods declared without any explicit visibility keyword are defined as public.
+Protected members are used with inheritance.
+Private members are used only internally in a class.
+
+
+***********************************************************
+
+PHP interface
+
+An interface specifies a list of methods that a class must implement.
+However, the interface itself does not contain any method implementations.
+This is an important aspect of interfaces because it allows a method to be handled differently in each class that uses the interface.
+
+The interface keyword defines an interface.
+The implements keyword is used in a class to implement an interface.
+
+For example, AnimalInterface is defined with a declaration for the makeSound() function, but it isn't implemented until it is used in a class:
+
+
+************************************************************
+
+
+PHP Abstract Classes
+
+Abstract classes can be inherited but they cannot be instantiated.
+They offer the advantage of being able to contain both methods with definitions and abstract methods that aren't defined until they are inherited.
+
+A class inheriting from an abstract class must implement all the abstract methods.
+
+The abstract keyword is used to create an abstract class or an abstract method.
+
+Abstract functions can only appear in an abstract class.
+
+
+*****************************************************************************
+
+The static Keyword
+
+The PHP static keyword defines static properties and static methods.
+A static property/method of a class can be accessed without creating an object of that class.
+
+A static property or method is accessed by using the scope resolution operator :: between the class name and the property/method name.
+
+The self keyword is needed to access a static property from a static method in a class definition.
+
+Objects of a class cannot access static properties in the class but they can access static methods.
+*****************************************
+
+The final Keyword
+
+The PHP final keyword defines methods that cannot be overridden in child classes. Classes that are defined final cannot be inherited.
+
+This example demonstrates that a final method cannot be overridden in a child class:

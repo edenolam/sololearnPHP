@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d9da26d-15b2-4756-82b9-470248aab6e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1iEQSz0dzY9MNh1nCAgfgtWRJzI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lecture" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d9da26d-15b2-4756-82b9-470248aab6e4" name="Default Changelist" comment="" />
+      <created>1601470274683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601470274683</updated>
+      <workItem from="1601470275693" duration="120000" />
+      <workItem from="1601470404076" duration="2221000" />
+      <workItem from="1601474403312" duration="7046000" />
+      <workItem from="1601504192699" duration="6813000" />
+      <workItem from="1601634368704" duration="5978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="148" width="710" height="759" key="#PHP" timestamp="1601470766110">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="605" y="148" width="710" height="759" key="#PHP/0.27.1920.995@0.27.1920.995" timestamp="1601470766110" />
+    <state x="721" y="308" width="467" height="439" key="#Web_Browsers" timestamp="1601474454731">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="721" y="308" width="467" height="439" key="#Web_Browsers/0.27.1920.995@0.27.1920.995" timestamp="1601474454731" />
+    <state x="1013" y="132" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601541667929">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="1013" y="132" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.995@0.27.1920.995" timestamp="1601541667929" />
+    <state x="768" y="243" width="441" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1601504822458">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="768" y="243" width="441" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1920.995@0.27.1920.995" timestamp="1601504822458" />
+    <state x="687" y="320" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601504940651">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="687" y="320" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.995@0.27.1920.995" timestamp="1601504940651" />
+    <state x="693" y="273" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601502881726">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="693" y="273" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.995@0.27.1920.995" timestamp="1601502881726" />
+    <state x="743" y="271" width="424" height="520" key="FileChooserDialogImpl" timestamp="1601470605261">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="743" y="271" width="424" height="520" key="FileChooserDialogImpl/0.27.1920.995@0.27.1920.995" timestamp="1601470605261" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1601541676085">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/0.27.1920.995@0.27.1920.995" timestamp="1601541676085" />
+    <state x="734" y="244" width="441" height="575" key="NewPhpClassDialog" timestamp="1601504943077">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="734" y="244" width="441" height="575" key="NewPhpClassDialog/0.27.1920.995@0.27.1920.995" timestamp="1601504943077" />
+    <state x="755" y="450" width="399" height="156" key="NewPhpFileDialog" timestamp="1601634394818">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="755" y="450" width="399" height="156" key="NewPhpFileDialog/0.27.1920.995@0.27.1920.995" timestamp="1601634394818" />
+  </component>
+</project>
