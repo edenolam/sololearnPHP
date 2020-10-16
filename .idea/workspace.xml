@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d9da26d-15b2-4756-82b9-470248aab6e4" name="Default Changelist" comment="" />
+    <list default="true" id="5d9da26d-15b2-4756-82b9-470248aab6e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/statements.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab.php" beforeDir="false" afterPath="$PROJECT_DIR$/tab.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +15,12 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1iEQSz0dzY9MNh1nCAgfgtWRJzI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +54,10 @@
       <workItem from="1601470404076" duration="2221000" />
       <workItem from="1601474403312" duration="7046000" />
       <workItem from="1601504192699" duration="6813000" />
-      <workItem from="1601634368704" duration="5978000" />
+      <workItem from="1601634368704" duration="6236000" />
+      <workItem from="1601718567550" duration="5853000" />
+      <workItem from="1601838195691" duration="66000" />
+      <workItem from="1601844681860" duration="68000" />
     </task>
     <servers />
   </component>
@@ -81,6 +93,14 @@
       <screen x="0" y="27" width="1920" height="995" />
     </state>
     <state x="743" y="271" width="424" height="520" key="FileChooserDialogImpl/0.27.1920.995@0.27.1920.995" timestamp="1601470605261" />
+    <state x="322" y="424" width="316" height="207" key="Github.ShareDialog" timestamp="1601655666775">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="322" y="424" width="316" height="207" key="Github.ShareDialog/0.27.1920.995@0.27.1920.995" timestamp="1601655666775" />
+    <state x="287" y="208" width="375" height="639" key="Github.UntrackedFilesDialog" timestamp="1601655673037">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="287" y="208" width="375" height="639" key="Github.UntrackedFilesDialog/0.27.1920.995@0.27.1920.995" timestamp="1601655673037" />
     <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1601541676085">
       <screen x="0" y="27" width="1920" height="995" />
     </state>
@@ -89,9 +109,9 @@
       <screen x="0" y="27" width="1920" height="995" />
     </state>
     <state x="734" y="244" width="441" height="575" key="NewPhpClassDialog/0.27.1920.995@0.27.1920.995" timestamp="1601504943077" />
-    <state x="755" y="450" width="399" height="156" key="NewPhpFileDialog" timestamp="1601634394818">
+    <state x="755" y="450" width="399" height="156" key="NewPhpFileDialog" timestamp="1601737867813">
       <screen x="0" y="27" width="1920" height="995" />
     </state>
-    <state x="755" y="450" width="399" height="156" key="NewPhpFileDialog/0.27.1920.995@0.27.1920.995" timestamp="1601634394818" />
+    <state x="755" y="450" width="399" height="156" key="NewPhpFileDialog/0.27.1920.995@0.27.1920.995" timestamp="1601737867813" />
   </component>
 </project>
